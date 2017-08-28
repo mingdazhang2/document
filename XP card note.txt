@@ -1,0 +1,30 @@
+XP short for?
+XP -experience ? developer-only Extreme Programming
+The “XP Game” is a fun and playful simulation of the XP
+development process. 
+
+How xp game relate to real agile programming.
+How do people play the xp game in the real industry? a example?
+
+
+All agile methodologies have some common principles and values, with an emphasis on individuals, interactions, delivery of working software, collaboration, responding to change and reflection. The different characteristics of the methods make them suitable for different circumstances.
+
+
+
+Steps:
+
+	the players are divided into small teams(4 or 8),each
+team consists of developers and customers. A coach assists each team,
+to explain and guide the game and to answer questions. 
+
+	The coach gives the team a small set of prewritten story cards. These cards describe simple tasks, such as “Build a two-story house of cards,” “Throw a six five times using two dice,” and “Find a missing card from a pack of cards.”
+
+	The team members (acting as developers) estimate how long it will take them to “implement” the tasks. The coach is available to answer questions about the stories. The team may choose a time between ten and 60 seconds. Or they may declare that it’s impossible to implement the task in 60 seconds. When all the stories have been estimated, the
+cards are handed back to the coach.
+
+
+Estimating: How Hard Can This Be?
+One of the most difficult aspects of working with velocity is convincing developers to estimate consistently. The velocity factor includes all the variable parts of team performance: experience, knowledge of the problem domain, team size, adding and removing team members, interruptions,
+and so on. If the planning game is to result in realistic schedules, stories should be estimated consistently in terms of their relative required effort. Developers should not try to adjust their estimates
+
+
