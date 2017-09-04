@@ -27,4 +27,25 @@ Estimating: How Hard Can This Be?
 One of the most difficult aspects of working with velocity is convincing developers to estimate consistently. The velocity factor includes all the variable parts of team performance: experience, knowledge of the problem domain, team size, adding and removing team members, interruptions,
 and so on. If the planning game is to result in realistic schedules, stories should be estimated consistently in terms of their relative required effort. Developers should not try to adjust their estimates
 
+Planning with Risk
+Most of the stories depend only on skill and teamwork. We can expect
+the team to perform consistently on these tasks.
+
+
+Conclusion
+The XP Game is a fun and playful way of simulating the XP process. It
+enables the participants to experience, in a relaxed environment, several
+of the XP practices: user stories, estimation, the planning game, acceptance
+tests, short releases, sustainable pace, progress tracking, and velocity.
+It is ideally suited as a follow-up to a tutorial on these practices.
+The competition, team effort, and fun aspects make it a great teambuilding
+tool: Playing the game improves trust and communication between
+developers and businesspeople.
+The XP Game has been played in companies transitioning to XP,
+during XP tutorials, and at software engineering conferences. The participants
+always have fun and feel they have learned more about the XP
+practices.
+And Lesire Software Engineering? They’re still doing XP and delivering
+working software to their customers. Developers and businesspeople
+are working together and enjoying it.
 
