@@ -1,0 +1,60 @@
+Methodologies Essay
+
+
+How to applyThe most surprising aspect of Extreme Programming is its simple rules. There are many small pieces. Individually the pieces make no sense, but when combined together a complete picture can be seen. The rules may seem awkward and perhaps even naive at first, but are based on sound values and principles.Our rules set expectations between team members but are not the end goal themselves. You will come to realize these rules define an environment that promotes team collaboration and empowerment, that is your goal. Once achieved productive teamwork will continue even as rules are changed to fit your company's specific needs.This flow chart shows how Extreme Programming's rules work together. Customers enjoy being partners in the software process, developers actively contribute regardless of experience level, and managers concentrate on communication and relationships. Unproductive activities have been trimmed to reduce costs and frustration of everyone involved.
+
+
+
+Rewrite features as Xp Story cards, add time estimates, plan ThePlanningGame with either Anne or Mike (pick 24 hours worth of cards)jsduck coordinateTool.js --output out
+
+jsdoc????? how to do that 
+tool? 
+
+Developer-only Extreme Programming is a simple and effective method for agile program management. 
+
+It was not always this way. These other methods were criticized for having too many regulations and being unable to adapt to project changes. People understood these methods were flawed because IT teams were not delivering software that met the agreed-upon budgets, schedules, or costs. In fact “The DoD (Department of Defense), noted that, of the $35.7 billion spent by the organization in 1995 for software, only 2 percent of the software was usable as delivered.” (Freedman). This led IT professionals to try out new ways of managing their projects and used the internet to share their experiences with each other. This means it has fewer rules and regulations to follow; instead, there are guidelines and principles that can help guide the project team along the way. This is why there are many different implantation methods, but not all will fit every projectFor some developers, they find they need to do more coding than expected when implementing new features. When they make changes to their code, they need to make changes to other relevant code too - they may be in many places at once. As a result, writing code becomes too much of a hassle. This is known as code smell. As Martin Fowler says, “a code smell is a surface indication that usually corresponds to a deeper problem in the system“. (Fowler, 1999). It is usually not regarded as a defect, but a warning sign of a deeper problem by poor design decisions. There are five groups of code smells: bloaters, object-oriented abusers, change preventers, dispensables, and couplers. Code smells may slow down development and add to maintenance costs, as more time is spent on either implementation or debugging. Maintenance costs will accumulate overtime and become hefty. In the worst case scenario, the cost to maintain the software becomes so high that the support for the software becomes abandoned. Refactoring is a process that is carried out to remove the code smells. Refactoring fixes the code by reducing complexity, coupling (low coupling means the design is good), increasing readability and software maintainability and therefore, reduce maintenance costs in the future.
+
+
+All agile methodologies have some common principles and values, with an emphasis on individuals, interactions, delivery of working software, collaboration, responding to change and reflection. The different characteristics of the methods make them suitable for different circumstances.
+
+
+
+Steps:
+
+	the players are divided into small teams(4 or 8),each
+team consists of developers and customers. A coach assists each team,
+to explain and guide the game and to answer questions. 
+
+	The coach gives the team a small set of prewritten story cards. These cards describe simple tasks, such as “Build a two-story house of cards,” “Throw a six five times using two dice,” and “Find a missing card from a pack of cards.”
+
+	The team members (acting as developers) estimate how long it will take them to “implement” the tasks. The coach is available to answer questions about the stories. The team may choose a time between ten and 60 seconds. Or they may declare that it’s impossible to implement the task in 60 seconds. When all the stories have been estimated, the
+cards are handed back to the coach.
+
+
+Estimating: How Hard Can This Be?
+One of the most difficult aspects of working with velocity is convincing developers to estimate consistently. The velocity factor includes all the variable parts of team performance: experience, knowledge of the problem domain, team size, adding and removing team members, interruptions,
+and so on. If the planning game is to result in realistic schedules, stories should be estimated consistently in terms of their relative required effort. Developers should not try to adjust their estimates
+
+Planning with Risk
+Most of the stories depend only on skill and teamwork. We can expect
+the team to perform consistently on these tasks.
+
+
+Conclusion
+The XP Game is a fun and playful way of simulating the XP process. It
+enables the participants to experience, in a relaxed environment, several
+of the XP practices: user stories, estimation, the planning game, acceptance
+tests, short releases, sustainable pace, progress tracking, and velocity.
+It is ideally suited as a follow-up to a tutorial on these practices.
+The competition, team effort, and fun aspects make it a great teambuilding
+tool: Playing the game improves trust and communication between
+developers and businesspeople.
+The XP Game has been played in companies transitioning to XP,
+during XP tutorials, and at software engineering conferences. The participants
+always have fun and feel they have learned more about the XP
+practices.
+And Lesire Software Engineering? They’re still doing XP and delivering
+working software to their customers. Developers and businesspeople
+are working together and enjoying it.
+
+
